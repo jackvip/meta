@@ -1,3 +1,9 @@
-# github 2fa code lost 
-- i cant sign 
-- so it is rubbish
+# 玄学架构
+> 探索玄学系统的底层架构
+## 底层逻辑
+- [玄学底层](./docs/core.md#玄学底层)
+- [阴阳五行](./docs/core.md#阴阳五行)
+- [八卦](./docs/core.md#八卦)
+- [天干地支](./docs/core.md#天干地支)
+## 梅花易数
+- 
