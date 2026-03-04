@@ -1,5 +1,4 @@
 # 玄学架构
-> 探索玄学系统的底层架构
 - [为什么说科学的尽头是玄学](./docs/qa.md)
 ## 底层逻辑
 - [玄学底层](./docs/core.md#玄学底层)
@@ -7,10 +6,29 @@
 - [八卦](./docs/core.md#八卦)
 - [天干地支](./docs/core.md#天干地支)
 ## 梅花易数
-- 
+- [原版书](./books/梅花易数.md)
+- [灵魂拷问](./docs/meihua.md#灵魂拷问)
+- [规则：嗜欲深者天机浅](./docs/meihua.md#规则：嗜欲深者天机浅)
+- [一些建议](./docs/meihua.md#一些建议)
+- [起卦](./docs/meihua.md#起卦)
+- [体用生克](./docs/meihua.md#体用生克)
+- [卦气衰旺](./docs/meihua.md#卦气衰旺)
+- [解卦](./docs/meihua.md#解卦)
+- [先天卦例解读](./docs/meihua.md#先天卦例解读)
+  - [观梅占](./docs/meihua.md#观梅占)
+  - [牡丹占](./docs/meihua.md#牡丹占)
+  - [邻夜扣门借物占](./docs/meihua.md#邻夜扣门借物占)
+  - [今日动静如何](./docs/meihua.md#今日动静如何)
+  - [西林寺牌额占](./docs/meihua.md#西林寺牌额占)
+- [后天卦例解读](./docs/meihua.md#后天卦例解读)
+  - [老人有忧色占](./docs/meihua.md#老人有忧色占)
+  - [少年有喜色占](./docs/meihua.md#少年有喜色占)
+  - [牛哀鸣占](./docs/meihua.md#牛哀鸣占)
+  - [鸡悲鸣占](./docs/meihua.md#鸡悲鸣占)
+  - [西林寺牌额占](./docs/meihua.md#西林寺牌额占)
+- [总结](./docs/meihua.md#总结)
 ## 紫微斗数
 ## 六爻
-## 麻衣神相
 ## 梅花易数[pro]
 ## 紫微斗数[pro]
 ## 紫微斗数[max]
